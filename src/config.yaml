@@ -1,0 +1,6 @@
+username: username
+password: password
+dir: ~/Videos
+sleep: 90
+courses:
+  - javascript-getting-started
